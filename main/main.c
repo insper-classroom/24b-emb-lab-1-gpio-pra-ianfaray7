@@ -23,7 +23,7 @@
    const int MOT_PIN_2 = 27;
    const int MOT_PIN_3 = 26;
    const int MOT_PIN_4 = 22;
-   const int STEPS= 500;
+   const int STEPS= 512;
 
 int main() {
 
